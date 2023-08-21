@@ -58,7 +58,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/Z3TR7"
             ),
             InlineKeyboardButton(
-                text="َِ𝗘𝗦𝗖𝗢𝗕𝗔𝗥", url="https://t.me/Stetch"
+                text="َِ𝗘𝗦𝗖𝗢𝗕𝗔𝗥", url="https://t.me/I_7_l7"
          )
         ],
         [
@@ -117,7 +117,7 @@ def telegram_markup_timer(_, videoid, chat_id, played, dur):
             ),
         ],[
             InlineKeyboardButton(
-                text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/TXNX5"
+                text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/Z3TR7"
             ),
             InlineKeyboardButton(
                 text="َِ𝗘𝗦𝗖𝗢𝗕𝗔𝗥", url="https://t.me/I_7_l7"

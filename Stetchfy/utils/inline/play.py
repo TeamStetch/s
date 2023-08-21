@@ -55,10 +55,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             ),
         ],[
             InlineKeyboardButton(
-                text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/TXNX5"
+                text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/Z3TR7"
             ),
             InlineKeyboardButton(
-                text="𝙎𝙏𝙀𝙏𝘾𝙃", url="https://t.me/Stetch"
+                text="َِ𝗘𝗦𝗖𝗢𝗕𝗔𝗥", url="https://t.me/Stetch"
          )
         ],
         [
@@ -120,7 +120,7 @@ def telegram_markup_timer(_, videoid, chat_id, played, dur):
                 text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/TXNX5"
             ),
             InlineKeyboardButton(
-                text="𝙎𝙏𝙀𝙏𝘾𝙃", url="https://t.me/Stetch"
+                text="َِ𝗘𝗦𝗖𝗢𝗕𝗔𝗥", url="https://t.me/I_7_l7"
          )
         ],
         [
@@ -152,16 +152,16 @@ def stream_markup(_, videoid, chat_id):
             ),
         ],[
             InlineKeyboardButton(
-                text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/TXNX5"
+                text="𝒔𝒖𝒑𝒑𝒐𝒓𝒕", url="https://t.me/Z3TR7"
             ),
             InlineKeyboardButton(
-                text="𝙎𝙏𝙀𝙏𝘾𝙃", url="https://t.me/Stetch"
+                text="َِ𝗘𝗦𝗖𝗢𝗕𝗔𝗥", url="https://t.me/I_7_l7"
          )
         ],
         [
             InlineKeyboardButton(
                 text=_["S_B_5"],
-                url=f"https://t.me/STETCHFYBOT?startgroup=true",
+                url=f"https://t.me/Music_Pablo_Bot?startgroup=true",
             )
         ]
     ]
@@ -175,7 +175,7 @@ def telegram_markup(_, chat_id):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/A_Rn_obot?startgroup=true",
+                text=_["PL_B_3"], url=f"https://t.me/Music_Pablo_Bot?startgroup=true",
             ),
         ],
     ]

@@ -98,7 +98,7 @@ async def gen_thumb(videoid):
 
         draw.text(
             (600, 150),
-            "NIGHTOSPHERE",
+            "STETCHFY",
             fill="white",
             stroke_width=2,
             stroke_fill="white",

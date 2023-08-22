@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/Stetchfy",
+        "value": "https://github.com/TeamStetch/mm",
         "required": true
       }
     },

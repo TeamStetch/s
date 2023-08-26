@@ -1,0 +1,5 @@
+[22-Aug-23 14:19:09 - INFO] - Stetchfy.core.dir - Directories Updated.
+[22-Aug-23 14:19:09 - INFO] - Stetchfy.core.git - Git Client Found [VPS DEPLOYER]
+[22-Aug-23 14:19:09 - INFO] - Stetchfy.misc - Database Initialized.
+[22-Aug-23 14:19:10 - INFO] - Stetchfy.misc - Sudo Users Loaded Successfully.
+[22-Aug-23 14:19:10 - INFO] - Stetchfy.core.bot - Starting Bot...

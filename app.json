@@ -1,14 +1,14 @@
 {
-	"name": "ZE STRING SESSION",
-	"description": "بوت استخراج جلسات زد إي",
-	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"name": "STETCH STRING SESSION",
+	"description": "بوت استخراج جلسات ستيتش",
+	"logo": "https://telegra.ph/file/6dc132c4bac7de58f2ca5.jpg",
 	"keywords": [
 		"telegram",
 		"bot",
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/Source-Ze/Temp-Mail",
+	"repository": "https://github.com/TeamStetch/s/SSSession",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",

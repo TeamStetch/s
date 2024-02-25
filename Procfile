@@ -1,1 +1,1 @@
-bot: python -m STETCH
+worker: python -m STETCH

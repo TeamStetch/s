@@ -1,16 +1,25 @@
 {
-	"name": "telawat",
-	"description": "A TeleGramBot to send messages secretly!",
-	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"name": "STETCH STRING SESSION",
+	"description": "بوت استخراج جلسات ستيتش",
+	"logo": "https://telegra.ph/file/6dc132c4bac7de58f2ca5.jpg",
 	"keywords": [
 		"telegram",
 		"bot",
 		"python",
 		"telethon"
 	],
+	"repository": "https://github.com/TeamStetch/s/SSSession",
     "env": {
-        "STETCH": {
+        "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
 	   }
 	},
